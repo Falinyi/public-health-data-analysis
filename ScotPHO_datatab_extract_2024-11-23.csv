@@ -1,0 +1,286 @@
+"area_code","area_type","area_name","year","period","type_definition","indicator","numerator","measure","upper_confidence_interval","lower_confidence_interval"
+"S00000001","Scotland","Scotland",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",8616,54.6,55.7,53.4
+"S00000001","Scotland","Scotland",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",8825.3,55.7,56.8,54.5
+"S00000001","Scotland","Scotland",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",9043,56.7,57.9,55.6
+"S00000001","Scotland","Scotland",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",9209,57.4,58.6,56.2
+"S00000001","Scotland","Scotland",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",9158.3,56.6,57.8,55.5
+"S00000001","Scotland","Scotland",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",8890.3,54.5,55.7,53.4
+"S00000001","Scotland","Scotland",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",8414,51.5,52.6,50.4
+"S00000001","Scotland","Scotland",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",7796.3,47.9,49,46.8
+"S00000001","Scotland","Scotland",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",7157.3,44.7,45.8,43.7
+"S00000001","Scotland","Scotland",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",6449.7,41.2,42.2,40.2
+"S00000001","Scotland","Scotland",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",5817,38,39,37
+"S00000001","Scotland","Scotland",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",5253.3,34.8,35.8,33.9
+"S00000001","Scotland","Scotland",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",4858.3,32.4,33.4,31.5
+"S00000001","Scotland","Scotland",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",4575,30.7,31.6,29.8
+"S00000001","Scotland","Scotland",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",4343.7,29.2,30.1,28.4
+"S00000001","Scotland","Scotland",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",4073,27.5,28.4,26.7
+"S00000001","Scotland","Scotland",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",3745.3,25.5,26.3,24.7
+"S00000001","Scotland","Scotland",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",3446.7,23.7,24.5,22.9
+"S00000001","Scotland","Scotland",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",3427.7,23.6,24.4,22.8
+"S08000015","Health board","NHS Ayrshire & Arran",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",635,55.4,59.9,51.2
+"S08000015","Health board","NHS Ayrshire & Arran",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",665,57.8,62.3,53.5
+"S08000015","Health board","NHS Ayrshire & Arran",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",710.3,61.8,66.5,57.3
+"S08000015","Health board","NHS Ayrshire & Arran",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",726.7,63.4,68.2,58.9
+"S08000015","Health board","NHS Ayrshire & Arran",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",738.3,64.6,69.4,60
+"S08000015","Health board","NHS Ayrshire & Arran",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",704.3,61.7,66.4,57.2
+"S08000015","Health board","NHS Ayrshire & Arran",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",689.3,60.5,65.2,56.1
+"S08000015","Health board","NHS Ayrshire & Arran",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",617.7,54.4,58.9,50.2
+"S08000015","Health board","NHS Ayrshire & Arran",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",568.7,50.7,55.1,46.7
+"S08000015","Health board","NHS Ayrshire & Arran",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",481.3,43.7,47.8,39.9
+"S08000015","Health board","NHS Ayrshire & Arran",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",427,39.8,43.7,36.1
+"S08000015","Health board","NHS Ayrshire & Arran",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",385,37,40.8,33.4
+"S08000015","Health board","NHS Ayrshire & Arran",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",355,35.3,39.1,31.7
+"S08000015","Health board","NHS Ayrshire & Arran",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",344.7,35.3,39.3,31.7
+"S08000015","Health board","NHS Ayrshire & Arran",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",325,34.4,38.3,30.8
+"S08000015","Health board","NHS Ayrshire & Arran",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",314.3,34.2,38.2,30.5
+"S08000015","Health board","NHS Ayrshire & Arran",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",276.7,30.7,34.6,27.2
+"S08000015","Health board","NHS Ayrshire & Arran",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",243,27,30.7,23.8
+"S08000015","Health board","NHS Ayrshire & Arran",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",231.7,25.6,29.1,22.4
+"S08000016","Health board","NHS Borders",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",133.3,45.5,53.9,38.1
+"S08000016","Health board","NHS Borders",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",141,48,56.7,40.4
+"S08000016","Health board","NHS Borders",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",141.3,47.9,56.4,40.3
+"S08000016","Health board","NHS Borders",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",143,47.7,56.2,40.2
+"S08000016","Health board","NHS Borders",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",142,45.9,54.1,38.6
+"S08000016","Health board","NHS Borders",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",142.7,44.7,52.6,37.6
+"S08000016","Health board","NHS Borders",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",147.3,45.4,53.3,38.3
+"S08000016","Health board","NHS Borders",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",143,44.2,52.1,37.3
+"S08000016","Health board","NHS Borders",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",129.7,40.8,48.5,34.1
+"S08000016","Health board","NHS Borders",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",113,36,43.3,29.7
+"S08000016","Health board","NHS Borders",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",98.3,31.8,38.8,25.9
+"S08000016","Health board","NHS Borders",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",91.3,29.9,36.7,24.1
+"S08000016","Health board","NHS Borders",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",84,28.1,34.8,22.4
+"S08000016","Health board","NHS Borders",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",80.7,27.6,34.3,21.9
+"S08000016","Health board","NHS Borders",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",79,27.8,34.7,22
+"S08000016","Health board","NHS Borders",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",71.3,25.6,32.3,20
+"S08000016","Health board","NHS Borders",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",65.3,23.9,30.5,18.5
+"S08000016","Health board","NHS Borders",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",57.3,21.1,27.3,16
+"S08000016","Health board","NHS Borders",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",57.3,21,27.2,15.9
+"S08000017","Health board","NHS Dumfries & Galloway",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",244.3,58.7,66.6,51.6
+"S08000017","Health board","NHS Dumfries & Galloway",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",261.7,62.7,70.8,55.3
+"S08000017","Health board","NHS Dumfries & Galloway",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",269.7,64.8,73,57.3
+"S08000017","Health board","NHS Dumfries & Galloway",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",263,63.3,71.5,55.9
+"S08000017","Health board","NHS Dumfries & Galloway",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",260.3,62.4,70.4,55
+"S08000017","Health board","NHS Dumfries & Galloway",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",254.3,60.3,68.2,53.1
+"S08000017","Health board","NHS Dumfries & Galloway",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",248.7,58.1,65.8,51.1
+"S08000017","Health board","NHS Dumfries & Galloway",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",218.7,50.6,57.8,44.1
+"S08000017","Health board","NHS Dumfries & Galloway",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",195.3,45.4,52.2,39.3
+"S08000017","Health board","NHS Dumfries & Galloway",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",171,40.2,46.7,34.4
+"S08000017","Health board","NHS Dumfries & Galloway",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",158,38.1,44.5,32.4
+"S08000017","Health board","NHS Dumfries & Galloway",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",145.3,36.4,42.8,30.7
+"S08000017","Health board","NHS Dumfries & Galloway",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",132.3,34.7,41.2,29.1
+"S08000017","Health board","NHS Dumfries & Galloway",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",122.3,33.6,40.2,27.9
+"S08000017","Health board","NHS Dumfries & Galloway",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",105,30.4,36.8,24.9
+"S08000017","Health board","NHS Dumfries & Galloway",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",95.7,29.1,35.6,23.6
+"S08000017","Health board","NHS Dumfries & Galloway",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",89,27.9,34.4,22.4
+"S08000017","Health board","NHS Dumfries & Galloway",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",84,26.3,32.6,21
+"S08000017","Health board","NHS Dumfries & Galloway",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",91.3,27.9,34.2,22.4
+"S08000019","Health board","NHS Forth Valley",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",456.7,52,57,47.3
+"S08000019","Health board","NHS Forth Valley",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",468.7,52.8,57.8,48.1
+"S08000019","Health board","NHS Forth Valley",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",488.3,54.2,59.3,49.5
+"S08000019","Health board","NHS Forth Valley",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",503.3,54.5,59.4,49.8
+"S08000019","Health board","NHS Forth Valley",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",510.7,54.9,59.9,50.3
+"S08000019","Health board","NHS Forth Valley",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",502,54.1,59,49.4
+"S08000019","Health board","NHS Forth Valley",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",484.7,52.3,57.1,47.7
+"S08000019","Health board","NHS Forth Valley",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",445.3,47.9,52.5,43.5
+"S08000019","Health board","NHS Forth Valley",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",426.3,46.2,50.8,41.9
+"S08000019","Health board","NHS Forth Valley",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",388,42.8,47.3,38.6
+"S08000019","Health board","NHS Forth Valley",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",367.7,41.2,45.7,37.1
+"S08000019","Health board","NHS Forth Valley",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",330.3,37.5,41.8,33.6
+"S08000019","Health board","NHS Forth Valley",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",310,35.3,39.5,31.5
+"S08000019","Health board","NHS Forth Valley",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",281.3,32.4,36.5,28.8
+"S08000019","Health board","NHS Forth Valley",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",258.7,30,33.9,26.4
+"S08000019","Health board","NHS Forth Valley",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",242.7,28.5,32.4,25.1
+"S08000019","Health board","NHS Forth Valley",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",220,26,29.7,22.7
+"S08000019","Health board","NHS Forth Valley",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",208.7,24.9,28.6,21.7
+"S08000019","Health board","NHS Forth Valley",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",197,23.5,27,20.3
+"S08000020","Health board","NHS Grampian",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",784.3,47.6,51.1,44.3
+"S08000020","Health board","NHS Grampian",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",792,47.4,50.8,44.2
+"S08000020","Health board","NHS Grampian",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",823.7,48.7,52.1,45.4
+"S08000020","Health board","NHS Grampian",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",827.7,48.3,51.7,45
+"S08000020","Health board","NHS Grampian",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",819.3,47.2,50.6,44.1
+"S08000020","Health board","NHS Grampian",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",793.7,45.3,48.5,42.2
+"S08000020","Health board","NHS Grampian",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",736.7,41.9,45,38.9
+"S08000020","Health board","NHS Grampian",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",700.7,39.9,43,37
+"S08000020","Health board","NHS Grampian",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",657.3,38,41,35.1
+"S08000020","Health board","NHS Grampian",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",612.3,36.1,39.1,33.3
+"S08000020","Health board","NHS Grampian",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",554.7,33.5,36.4,30.8
+"S08000020","Health board","NHS Grampian",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",482.3,29.7,32.4,27.1
+"S08000020","Health board","NHS Grampian",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",437,27.1,29.7,24.6
+"S08000020","Health board","NHS Grampian",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",393.7,24.5,27.1,22.2
+"S08000020","Health board","NHS Grampian",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",379.3,23.8,26.3,21.5
+"S08000020","Health board","NHS Grampian",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",357.7,22.7,25.2,20.4
+"S08000020","Health board","NHS Grampian",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",343,21.9,24.4,19.7
+"S08000020","Health board","NHS Grampian",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",305.7,19.8,22.1,17.6
+"S08000020","Health board","NHS Grampian",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",307.3,19.9,22.2,17.7
+"S08000022","Health board","NHS Highland",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",404,48.7,53.7,44.1
+"S08000022","Health board","NHS Highland",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",403.7,48,52.9,43.4
+"S08000022","Health board","NHS Highland",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",418,49.1,54.1,44.5
+"S08000022","Health board","NHS Highland",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",442.3,51.7,56.7,47
+"S08000022","Health board","NHS Highland",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",454.3,52.4,57.5,47.7
+"S08000022","Health board","NHS Highland",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",451.7,51.1,56.1,46.5
+"S08000022","Health board","NHS Highland",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",435,48.7,53.6,44.3
+"S08000022","Health board","NHS Highland",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",422.3,47.1,51.8,42.7
+"S08000022","Health board","NHS Highland",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",399,44.8,49.4,40.5
+"S08000022","Health board","NHS Highland",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",353.3,40,44.4,36
+"S08000022","Health board","NHS Highland",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",313.7,36.2,40.4,32.3
+"S08000022","Health board","NHS Highland",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",283.3,33.5,37.7,29.7
+"S08000022","Health board","NHS Highland",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",262.7,32,36.1,28.2
+"S08000022","Health board","NHS Highland",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",237.7,29.9,33.9,26.2
+"S08000022","Health board","NHS Highland",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",217.3,28.1,32.1,24.5
+"S08000022","Health board","NHS Highland",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",197.3,26.2,30.1,22.7
+"S08000022","Health board","NHS Highland",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",176.3,23.8,27.6,20.4
+"S08000022","Health board","NHS Highland",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",153.7,20.7,24.3,17.6
+"S08000022","Health board","NHS Highland",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",153.7,20.5,24,17.4
+"S08000024","Health board","NHS Lothian",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1337,57.7,60.9,54.7
+"S08000024","Health board","NHS Lothian",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1380,58.6,61.8,55.6
+"S08000024","Health board","NHS Lothian",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1377.3,57.4,60.5,54.4
+"S08000024","Health board","NHS Lothian",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1406.3,57.4,60.4,54.4
+"S08000024","Health board","NHS Lothian",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1387.3,55.8,58.8,52.9
+"S08000024","Health board","NHS Lothian",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1356,53.6,56.5,50.7
+"S08000024","Health board","NHS Lothian",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1269.3,49.8,52.6,47.1
+"S08000024","Health board","NHS Lothian",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1186.7,47,49.8,44.4
+"S08000024","Health board","NHS Lothian",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1080,43.8,46.5,41.2
+"S08000024","Health board","NHS Lothian",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1011.3,41.9,44.6,39.4
+"S08000024","Health board","NHS Lothian",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",902.3,38,40.5,35.5
+"S08000024","Health board","NHS Lothian",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",839.7,35.2,37.7,32.9
+"S08000024","Health board","NHS Lothian",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",758.7,31.5,33.8,29.3
+"S08000024","Health board","NHS Lothian",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",711.7,28.8,31,26.7
+"S08000024","Health board","NHS Lothian",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",680.7,26.8,28.9,24.9
+"S08000024","Health board","NHS Lothian",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",622.3,24,26,22.1
+"S08000024","Health board","NHS Lothian",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",576.7,22.2,24.1,20.4
+"S08000024","Health board","NHS Lothian",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",516.3,20.2,22,18.5
+"S08000024","Health board","NHS Lothian",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",529,21,22.9,19.2
+"S08000025","Health board","NHS Orkney",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",27.7,47.2,68.4,31.3
+"S08000025","Health board","NHS Orkney",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",26.3,44.2,64.6,28.9
+"S08000025","Health board","NHS Orkney",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",23,37.4,56.1,23.7
+"S08000025","Health board","NHS Orkney",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",25,40.2,59.4,26
+"S08000025","Health board","NHS Orkney",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",23.7,37.2,55.6,23.8
+"S08000025","Health board","NHS Orkney",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",24.7,38.1,56.4,24.6
+"S08000025","Health board","NHS Orkney",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",19,28.6,44.6,17.2
+"S08000025","Health board","NHS Orkney",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",17.7,26.3,41.8,15.5
+"S08000025","Health board","NHS Orkney",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",14.3,21.8,36.3,12
+"S08000025","Health board","NHS Orkney",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",13,20.6,35.2,11
+"S08000025","Health board","NHS Orkney",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",12,20.2,35.4,10.5
+"S08000025","Health board","NHS Orkney",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",10.3,18.6,33.9,9
+"S08000025","Health board","NHS Orkney",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,17.2,32.7,7.9
+"S08000025","Health board","NHS Orkney",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,12.5,26.7,4.7
+"S08000025","Health board","NHS Orkney",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,11.9,26,4.4
+"S08000025","Health board","NHS Orkney",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,12.8,27.3,4.8
+"S08000025","Health board","NHS Orkney",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,13.8,28.9,5.4
+"S08000025","Health board","NHS Orkney",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,16.7,32.9,7.2
+"S08000025","Health board","NHS Orkney",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,17.1,33.2,7.5
+"S08000026","Health board","NHS Shetland",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",19.7,30.7,47.6,18.7
+"S08000026","Health board","NHS Shetland",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22.3,33.7,50.9,21.2
+"S08000026","Health board","NHS Shetland",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22.7,32.7,49.2,20.6
+"S08000026","Health board","NHS Shetland",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22.7,32,48.2,20.2
+"S08000026","Health board","NHS Shetland",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22,30.7,46.5,19.2
+"S08000026","Health board","NHS Shetland",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22.3,31.3,47.3,19.7
+"S08000026","Health board","NHS Shetland",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22,31.1,47.1,19.5
+"S08000026","Health board","NHS Shetland",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",21.7,31.2,47.3,19.5
+"S08000026","Health board","NHS Shetland",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",20.3,29.5,45.3,18.1
+"S08000026","Health board","NHS Shetland",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",20.7,29.8,45.7,18.4
+"S08000026","Health board","NHS Shetland",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",19.3,27.5,42.8,16.7
+"S08000026","Health board","NHS Shetland",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",18.3,26.3,41.4,15.7
+"S08000026","Health board","NHS Shetland",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",13.3,19.7,33.4,10.6
+"S08000026","Health board","NHS Shetland",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,13.3,25.6,6
+"S08000026","Health board","NHS Shetland",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,14.6,27.7,6.7
+"S08000026","Health board","NHS Shetland",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,16.6,30.8,7.8
+"S08000026","Health board","NHS Shetland",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",11.7,21.3,37.5,10.9
+"S08000026","Health board","NHS Shetland",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",10.3,19,34.5,9.2
+"S08000026","Health board","NHS Shetland",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,17.2,32,8.1
+"S08000028","Health board","NHS Western Isles",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",17,22.9,36.7,13.3
+"S08000028","Health board","NHS Western Isles",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",17.7,23.2,36.8,13.7
+"S08000028","Health board","NHS Western Isles",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",21.7,28.4,43.2,17.7
+"S08000028","Health board","NHS Western Isles",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",23.3,30.9,46.2,19.6
+"S08000028","Health board","NHS Western Isles",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",25,33.3,49.1,21.5
+"S08000028","Health board","NHS Western Isles",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22.7,30.1,45.3,19
+"S08000028","Health board","NHS Western Isles",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",21.7,28.9,43.8,18
+"S08000028","Health board","NHS Western Isles",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",22.7,29.6,44.6,18.7
+"S08000028","Health board","NHS Western Isles",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",24.3,31.3,46.5,20.1
+"S08000028","Health board","NHS Western Isles",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",23.7,30.3,45.3,19.4
+"S08000028","Health board","NHS Western Isles",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",18.3,24.1,37.9,14.3
+"S08000028","Health board","NHS Western Isles",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",16.3,22.6,36.5,13
+"S08000028","Health board","NHS Western Isles",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",13.7,20,33.8,10.9
+"S08000028","Health board","NHS Western Isles",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",12.7,19.6,33.7,10.3
+"S08000028","Health board","NHS Western Isles",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",10.7,17.3,31.2,8.5
+"S08000028","Health board","NHS Western Isles",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",10.7,17.6,31.8,8.7
+"S08000028","Health board","NHS Western Isles",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,16.1,29.9,7.6
+"S08000028","Health board","NHS Western Isles",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",10.7,17.6,31.7,8.7
+"S08000028","Health board","NHS Western Isles",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",NA,14.8,28.1,6.8
+"S08000029","Health board","NHS Fife",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",645,57.8,62.5,53.5
+"S08000029","Health board","NHS Fife",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",665.3,59.5,64.2,55.1
+"S08000029","Health board","NHS Fife",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",672.7,59.5,64.2,55.1
+"S08000029","Health board","NHS Fife",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",711.3,63,67.9,58.5
+"S08000029","Health board","NHS Fife",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",730.7,65.2,70.1,60.6
+"S08000029","Health board","NHS Fife",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",724,64.8,69.7,60.2
+"S08000029","Health board","NHS Fife",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",699.3,62.3,67.1,57.8
+"S08000029","Health board","NHS Fife",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",650,57.8,62.4,53.4
+"S08000029","Health board","NHS Fife",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",602.3,53.6,58.1,49.4
+"S08000029","Health board","NHS Fife",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",559.3,50.1,54.4,46
+"S08000029","Health board","NHS Fife",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",497.7,45,49.2,41.2
+"S08000029","Health board","NHS Fife",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",447.3,41.1,45.1,37.4
+"S08000029","Health board","NHS Fife",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",400,37.4,41.2,33.8
+"S08000029","Health board","NHS Fife",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",386.7,36.6,40.4,33
+"S08000029","Health board","NHS Fife",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",376.7,36.4,40.2,32.8
+"S08000029","Health board","NHS Fife",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",360,35.1,39,31.6
+"S08000029","Health board","NHS Fife",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",333.7,33,36.7,29.5
+"S08000029","Health board","NHS Fife",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",297,29.2,32.7,26
+"S08000029","Health board","NHS Fife",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",269.7,26.4,29.8,23.4
+"S08000030","Health board","NHS Tayside",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",791,65.2,69.9,60.7
+"S08000030","Health board","NHS Tayside",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",836,68.9,73.8,64.3
+"S08000030","Health board","NHS Tayside",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",832,68.9,73.7,64.3
+"S08000030","Health board","NHS Tayside",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",865,71.2,76.1,66.5
+"S08000030","Health board","NHS Tayside",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",844,67.9,72.7,63.4
+"S08000030","Health board","NHS Tayside",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",824.3,64.9,69.5,60.5
+"S08000030","Health board","NHS Tayside",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",752,58.2,62.5,54.1
+"S08000030","Health board","NHS Tayside",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",681.3,52.5,56.6,48.6
+"S08000030","Health board","NHS Tayside",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",613.3,47.6,51.5,43.9
+"S08000030","Health board","NHS Tayside",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",541.3,42.8,46.6,39.3
+"S08000030","Health board","NHS Tayside",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",500.7,40.7,44.4,37.2
+"S08000030","Health board","NHS Tayside",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",459.3,38.1,41.8,34.7
+"S08000030","Health board","NHS Tayside",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",445,37.5,41.1,34.1
+"S08000030","Health board","NHS Tayside",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",428.7,36.4,40,33
+"S08000030","Health board","NHS Tayside",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",406,34.6,38.2,31.4
+"S08000030","Health board","NHS Tayside",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",376.7,32.1,35.5,29
+"S08000030","Health board","NHS Tayside",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",338,28.9,32.1,25.9
+"S08000030","Health board","NHS Tayside",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",329.7,28.5,31.7,25.5
+"S08000030","Health board","NHS Tayside",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",336.7,29.5,32.8,26.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",2050.3,55.1,57.5,52.7
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",2068.3,55.7,58.1,53.3
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",2121.7,57.2,59.7,54.8
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",2107.7,56.7,59.1,54.3
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",2051,54.9,57.3,52.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1962,52.4,54.8,50.1
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1839.7,49.5,51.8,47.3
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1676.7,45.8,48.1,43.7
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1508.7,42.6,44.8,40.5
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1330.3,39.3,41.4,37.2
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1206.7,36.9,39,34.8
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1067.7,33.1,35.1,31.1
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",981.7,30.2,32.2,28.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",930.3,28.4,30.3,26.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",887.3,26.9,28.7,25.1
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",848.3,25.6,27.4,23.9
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",797.3,24.1,25.8,22.5
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",772.3,23.6,25.3,22
+"S08000031","Health board","NHS Greater Glasgow & Clyde",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",781,24,25.8,22.4
+"S08000032","Health board","NHS Lanarkshire",2003,"2002 to 2004 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1066.7,53,56.3,49.9
+"S08000032","Health board","NHS Lanarkshire",2004,"2003 to 2005 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1071,53.7,57,50.5
+"S08000032","Health board","NHS Lanarkshire",2005,"2004 to 2006 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1113,56.3,59.7,53
+"S08000032","Health board","NHS Lanarkshire",2006,"2005 to 2007 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1131.3,57.4,60.9,54.1
+"S08000032","Health board","NHS Lanarkshire",2007,"2006 to 2008 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1140.3,57.7,61.1,54.4
+"S08000032","Health board","NHS Lanarkshire",2008,"2007 to 2009 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1096.7,55.2,58.5,51.9
+"S08000032","Health board","NHS Lanarkshire",2009,"2008 to 2010 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",1043.3,52.4,55.7,49.3
+"S08000032","Health board","NHS Lanarkshire",2010,"2009 to 2011 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",986,49.7,52.9,46.6
+"S08000032","Health board","NHS Lanarkshire",2011,"2010 to 2012 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",912,46.5,49.6,43.5
+"S08000032","Health board","NHS Lanarkshire",2012,"2011 to 2013 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",824,42.6,45.6,39.8
+"S08000032","Health board","NHS Lanarkshire",2013,"2012 to 2014 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",735,38.5,41.4,35.8
+"S08000032","Health board","NHS Lanarkshire",2014,"2013 to 2015 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",672.7,35.6,38.4,33
+"S08000032","Health board","NHS Lanarkshire",2015,"2014 to 2016 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",654.3,34.9,37.6,32.2
+"S08000032","Health board","NHS Lanarkshire",2016,"2015 to 2017 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",628,33.8,36.5,31.2
+"S08000032","Health board","NHS Lanarkshire",2017,"2016 to 2018 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",601.3,32.8,35.5,30.2
+"S08000032","Health board","NHS Lanarkshire",2018,"2017 to 2019 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",557.7,30.8,33.5,28.3
+"S08000032","Health board","NHS Lanarkshire",2019,"2018 to 2020 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",499.7,27.9,30.5,25.5
+"S08000032","Health board","NHS Lanarkshire",2020,"2019 to 2021 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",448,25.1,27.5,22.8
+"S08000032","Health board","NHS Lanarkshire",2021,"2020 to 2022 calendar years; 3-year aggregates","Crude rate per 1,000 females aged 15-19","Teenage pregnancies",444,24.8,27.3,22.6
